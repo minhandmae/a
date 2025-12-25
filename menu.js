@@ -60,6 +60,7 @@ document.write('	<li><a href="christmas2021.htm">Christmas 2021</a></li>');
 document.write('	<li><a href="christmas2022.htm">Christmas 2022</a></li>');
 document.write('	<li><a href="christmas2023.htm">Christmas 2023</a></li>');
 document.write('	<li><a href="christmas2024.htm">Christmas 2024</a></li>');
+document.write('	<li><a href="christmas2025.htm">Christmas 2025</a></li>');
 
 
 document.write('</div>');
